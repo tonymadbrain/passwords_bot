@@ -1,11 +1,11 @@
 # passwords_bot
 
-This codebase powers [DoamPasswordsBot](https://t.me/DoamPasswordsBot). It's simple chat bot, that sends you randomly generated password on each request. I used to generate passwords in my console terminal, but chat bot is faster and handy way to this.
+This codebase powers [DoamPasswordsBot](https://t.me/DoamPasswordsBot). It's simple chat bot, that sends you randomly generated password on each request. I used to generate passwords in my console terminal, but chat bot is faster and handy way to do this.
 
 ## Build and test
 
 ```Bash
-$ git clone git@github.com:tonymadbrain/passwords_bot.git
+$ git clone https://github.com/tonymadbrain/passwords_bot.git
 $ cd passwords_bot
 $ go build
 $ TG_BOT_TOKEN=1234567890:xxxYYYzzz ./passwords_bot
